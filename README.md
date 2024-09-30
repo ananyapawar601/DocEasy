@@ -18,10 +18,13 @@
    git clone https://github.com/ananyapawar601/DocEasy.git
 
 2. Navigate to the project directory:
+3. ```bash
    cd DocEasy
 
-3. Install dependencies:
+4. Install dependencies:
+   ```bash
    npm install
 
-4. Start the server - Open http://localhost:3000 to view it in the browser.
+6. Start the server - Open http://localhost:3000 to view it in the browser.
+   ```bash
    npm start
